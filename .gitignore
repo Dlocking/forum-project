@@ -1,0 +1,4 @@
+django_retry/
+MyForum/forum/__pycache__/
+MyForum/MyForum/__pycache__/
+MyForum/forum/migrations
